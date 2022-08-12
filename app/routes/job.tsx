@@ -75,11 +75,7 @@ export default function JobSearch() {
         >
           {title}
         </Text>
-        -
-        <Text component="span" mx={12} weight="bold" inherit>
-          1,398
-        </Text>
-        open positions
+        - 1,398 open positions
       </Title>
       <Grid mt={12}>
         <Grid.Col span={4}>
